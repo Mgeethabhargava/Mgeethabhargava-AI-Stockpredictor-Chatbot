@@ -1,0 +1,309 @@
+﻿text,labels
+Hi,Greet
+Hi there,Greet
+Hello ,Greet
+Hello There,Greet
+Namste,Greet
+Namastey,Greet
+Namaste,Greet
+Good Morning,Greet
+Good Afternoon,Greet
+Good Evening,Greet
+What's up?,Greet
+Howdy!,Greet
+Hiya!,Greet
+Wassup?,Greet
+What’s good?,Greet
+What's crackin'?,Greet
+Heya!,Greet
+How's it hangin'?,Greet
+Hi there!,Greet
+Morning!,Greet
+Hey buddy!,Greet
+Hello sunshine!,Greet
+What’s new?,Greet
+How’s life?,Greet
+Yo yo!,Greet
+Heyy,Greet
+Holla!,Greet
+Yoo-hoo!,Greet
+"What’s up, dude?",Greet
+"Greetings, earthling!",Greet
+Oye!,Greet
+Yo!,Greet
+Hey!,Greet
+Good Bye,Sendoff
+Tata,Sendoff
+Bye,Sendoff
+Get back to you soon,Sendoff
+Bye Bye,Sendoff
+Chal Ta hoon,Sendoff
+Bye!,Sendoff
+Later!,Sendoff
+See ya later!,Sendoff
+See ya!,Sendoff
+Catch you later!,Sendoff
+Take care!,Sendoff
+I’m out!,Sendoff
+Peace!,Sendoff
+Adios!,Sendoff
+Catch you on the flip side!,Sendoff
+Talk to you soon!,Sendoff
+See you around!,Sendoff
+I’m off!,Sendoff
+Talk To You Later,Sendoff
+Bye Felicia!,Sendoff
+Ciao for now!,Sendoff
+Be Right Back,Sendoff
+Holla back!,Sendoff
+Laterz!,Sendoff
+Walk good!,Sendoff
+Ta-ta!,Sendoff
+Sayonara!,Sendoff
+Tata !,Sendoff
+I am Off,Sendoff
+see u later,Sendoff
+see you later,Sendoff
+let's discuss tomorrow,Sendoff
+lets discuss after sometime,Sendoff
+discuss it later,Sendoff
+Predict this stock name called Amazon,AMZN
+Let me know Future prices of Amazon,AMZN
+Let me know Forecast of Amazon Share,AMZN
+Predict Amazon Stock,AMZN
+Find Future rates of Amazon,AMZN
+Find Next Day Rates of Amazon,AMZN
+Give me Forcast of Amazon share,AMZN
+Give me Forecast of Amazon stock,AMZN
+Give me predictions of amazon stock,AMZN
+Predict this stock name called AMZN,AMZN
+Let me know Future prices of AMZN,AMZN
+Let me know Forecast of AMZN Share,AMZN
+Predict AMZN Stock,AMZN
+Find Future rates of AMZN,AMZN
+Find Next Day Rates of AMZN,AMZN
+Give me Forcast of AMZN share,AMZN
+Give me Forecast of AMZN stock,AMZN
+Give me predictions of AMZN stock,AMZN
+Predict this stock name called amzn,AMZN
+Let me know Future prices of amzn,AMZN
+Let me know Forecast of amzn Share,AMZN
+Predict amzn Stock,AMZN
+Find Future rates of amzn,AMZN
+Find Next Day Rates of amzn,AMZN
+Give me Forcast of amzn share,AMZN
+Give me Forecast of amzn stock,AMZN
+Give me predictions of amzn stock,AMZN
+amzn,AMZN
+AMZN,AMZN
+what is next highest rate for amazon company share,AMZN
+Predict this stock name called Google,GOOGL
+Let me know Future prices of Google,GOOGL
+Let me know Forecast of Google Share,GOOGL
+Predict Google Stock,GOOGL
+Find Future rates of Google,GOOGL
+Find Next Day Rates of Google,GOOGL
+Give me Forcast of Google share,GOOGL
+Give me Forecast of Google stock,GOOGL
+Give me predictions of Google stock,GOOGL
+Predict this stock name called GOOGL,GOOGL
+Let me know Future prices of GOOGL,GOOGL
+Let me know Forecast of GOOGL Share,GOOGL
+Predict GOOGL Stock,GOOGL
+Find Future rates of GOOGL,GOOGL
+Find Next Day Rates of GOOGL,GOOGL
+Give me Forcast of GOOGL share,GOOGL
+Give me Forecast of GOOGL stock,GOOGL
+Give me predictions of GOOGL stock,GOOGL
+Predict this stock name called googl,GOOGL
+Let me know Future prices of googl,GOOGL
+Let me know Forecast of googl Share,GOOGL
+Predict googl Stock,GOOGL
+Find Future rates of googl,GOOGL
+Find Next Day Rates of googl,GOOGL
+Give me Forcast of googl share,GOOGL
+Give me Forecast of googl stock,GOOGL
+Give me predictions of googl stock,GOOGL
+googl,GOOGL
+GOOGL,GOOGL
+what is next highest rate for google company share,GOOGL
+Predict this stock name called Microsoft,MSFT
+Let me know Future prices of Microsoft,MSFT
+Let me know Forecast of Microsoft Share,MSFT
+Predict Microsoft Stock,MSFT
+Find Future rates of Microsoft,MSFT
+Find Next Day Rates of Microsoft,MSFT
+Give me Forcast of Microsoft share,MSFT
+Give me Forecast of Microsoft stock,MSFT
+Give me predictions of Microsoft stock,MSFT
+Predict this stock name called MSFT,MSFT
+Let me know Future prices of MSFT,MSFT
+Let me know Forecast of MSFT Share,MSFT
+Predict MSFT Stock,MSFT
+Find Future rates of MSFT,MSFT
+Find Next Day Rates of MSFT,MSFT
+Give me Forcast of MSFT share,MSFT
+Give me Forecast of MSFT stock,MSFT
+Give me predictions of MSFT stock,MSFT
+Predict this stock name called MSFT,MSFT
+Let me know Future prices of msft,MSFT
+Let me know Forecast of msft Share,MSFT
+Predict msft Stock,MSFT
+Find Future rates of msft,MSFT
+Find Next Day Rates of msft,MSFT
+Give me Forcast of msft share,MSFT
+Give me Forecast of msft stock,MSFT
+Give me predictions of msft stock,MSFT
+msft,MSFT
+MSFT,MSFT
+what is next highest rate for microsoft company share,MSFT
+Predict this stock name called Apple Inc,AAPL
+Let me know Future prices of Apple Computer,AAPL
+Let me know Forecast of Apple Inc Share,AAPL
+Predict Apple Inc Stock,AAPL
+Find Future rates of Apple Inc,AAPL
+Find Next Day Rates of Apple Inc,AAPL
+Give me Forcast of Apple Inc share,AAPL
+Give me Forecast of Apple Inc stock,AAPL
+Give me predictions of Apple Inc stock,AAPL
+Predict this stock name called AAPL,AAPL
+Let me know Future prices of AAPL,AAPL
+Let me know Forecast of AAPL Share,AAPL
+Predict AAPL Stock,AAPL
+Find Future rates of AAPL,AAPL
+Find Next Day Rates of AAPL,AAPL
+Give me Forcast of AAPL share,AAPL
+Give me Forecast of AAPL stock,AAPL
+Give me predictions of AAPL stock,AAPL
+Predict this stock name called AAPL,AAPL
+Let me know Future prices of aapl,AAPL
+Let me know Forecast of aapl Share,AAPL
+Predict aapl Stock,AAPL
+Find Future rates of aapl,AAPL
+Find Next Day Rates of aapl,AAPL
+Give me Forcast of aapl share,AAPL
+Give me Forecast of aapl stock,AAPL
+Give me predictions of aapl stock,AAPL
+aapl,AAPL
+AAPL,AAPL
+what is next highest rate for Apple Inc company share,AAPL
+Predict this stock name called british petroleum,BP.L
+Let me know Future prices of british petroleum,BP.L
+Let me know Forecast of british petroleum Share,BP.L
+Predict british petroleum Stock,BP.L
+Find Future rates of british petroleum,BP.L
+Find Next Day Rates of british petroleum,BP.L
+Give me Forcast of british petroleum share,BP.L
+Give me Forecast of british petroleum stock,BP.L
+Give me predictions of british petroleum stock,BP.L
+Predict this stock name called BP PLC,BP.L
+Let me know Future prices of BP PLC,BP.L
+Let me know Forecast of BP PLC Share,BP.L
+Predict BP Stock,BP.L
+Find Future rates of BP PLC,BP.L
+Find Next Day Rates of BP PLC,BP.L
+Give me Forcast of BP PLC share,BP.L
+Give me Forecast of BP stock,BP.L
+Give me predictions of BP PLC stock,BP.L
+Predict this stock name called BP PLC,BP.L
+Let me know Future prices of bp,BP.L
+Let me know Forecast of bp plc Share,BP.L
+Predict bp plc Stock,BP.L
+Find Future rates of bp,BP.L
+Find Next Day Rates of bp plc,BP.L
+Give me Forcast of bp plc share,BP.L
+Give me Forecast of bp plc stock,BP.L
+Give me predictions of bp plc stock,BP.L
+BP PLC,BP.L
+bp plc,BP.L
+what is next highest rate for bp company share,BP.L
+Predict this stock name called HSBC Holdings plc,HSBA.L
+Let me know Future prices of HSBC Holdings plc,HSBA.L
+Let me know Forecast of HSBC Holdings Share,HSBA.L
+Predict HSBC Holdings Stock,HSBA.L
+Find Future rates of HSBC Holdings plc,HSBA.L
+Find Next Day Rates of HSBC Holdings plc,HSBA.L
+Give me Forcast of HSBC Holdings plc share,HSBA.L
+Give me Forecast of HSBC Holdings plc stock,HSBA.L
+Give me predictions of HSBC Holdings plc stock,HSBA.L
+Predict this stock name called HSBA.L,HSBA.L
+Let me know Future prices of HSBA.L,HSBA.L
+Let me know Forecast of HSBA.LShare,HSBA.L
+Predict HSBA.L Stock,HSBA.L
+Find Future rates of HSBA.L,HSBA.L
+Find Next Day Rates of HSBA.L,HSBA.L
+Give me Forcast of HSBA.L share,HSBA.L
+Give me Forecast of HSBA.L stock,HSBA.L
+Give me predictions of HSBA.L stock,HSBA.L
+Predict this stock name called HSBA.L,HSBA.L
+Let me know Future prices of HSBA.L,HSBA.L
+Let me know Forecast of hsba Share,HSBA.L
+Predict hsba Stock,HSBA.L
+Find Future rates of hsba.l,HSBA.L
+Find Next Day Rates of hsba.l,HSBA.L
+Give me Forcast of hsba.l share,HSBA.L
+Give me Forecast of hsba.l stock,HSBA.L
+Give me predictions of hsba.l stock,HSBA.L
+hsba.l,HSBA.L
+HSBA.L,HSBA.L
+what is next highest rate for hsba.l company share,HSBA.L
+Predict this stock name called Tesco PLC,TSCO.L
+Let me know Future prices of Tesco PLC,TSCO.L
+Let me know Forecast of Tesco Share,TSCO.L
+Predict Tesco PLC Stock,TSCO.L
+Find Future rates of Tesco PLC,TSCO.L
+Find Next Day Rates of Tesco PLC,TSCO.L
+Give me Forcast of Tesco  share,TSCO.L
+Give me Forecast of Tesco PLC stock,TSCO.L
+Give me predictions of Tesco PLC stock,TSCO.L
+Predict this stock name called TSCO.L,TSCO.L
+Let me know Future prices of TSCO.L,TSCO.L
+Let me know Forecast of TSCO.L Share,TSCO.L
+Predict TSCO.L Stock,TSCO.L
+Find Future rates of TSCO.L,TSCO.L
+Find Next Day Rates of TSCO.L,TSCO.L
+Give me Forcast of TSCO.L share,TSCO.L
+Give me Forecast of TSCO.L stock,TSCO.L
+Give me predictions of TSCO.L stock,TSCO.L
+Predict this stock name called TSCO.L,TSCO.L
+Let me know Future prices of TSCO.L,TSCO.L
+Let me know Forecast of tsco.l Share,TSCO.L
+Predict tsco.l Stock,TSCO.L
+Find Future rates of tsco,TSCO.L
+Find Next Day Rates of tsco.l,TSCO.L
+Give me Forcast of tsco.l share,TSCO.L
+Give me Forecast of tsco.l stock,TSCO.L
+Give me predictions of tsco.l stock,TSCO.L
+tsco.l,TSCO.L
+TSCO.L,TSCO.L
+what is next highest rate for tsco.l company share,TSCO.L
+Predict this stock name called JD Sports Fashion Plc,JD.L
+Let me know Future prices of JD Sports Fashion Plc,JD.L
+Let me know Forecast of JD Sports Fashion Share,JD.L
+Predict JD Sports Fashion Plc Stock,JD.L
+Find Future rates ofJD Sports Fashion Plc,JD.L
+Find Next Day Rates of JD Sports Fashion Plc,JD.L
+Give me Forcast of JD Sports Fashion  share,JD.L
+Give me Forecast of JD Sports Fashion Plc stock,JD.L
+Give me predictions of JD Sports Fashion Plc stock,JD.L
+Predict this stock name called JD.L,JD.L
+Let me know Future prices of JD.L,JD.L
+Let me know Forecast of JD.L Share,JD.L
+Predict JD.L Stock,JD.L
+Find Future rates of JD.L,JD.L
+Find Next Day Rates of JD.L,JD.L
+Give me Forcast of JD.L share,JD.L
+Give me Forecast of JD.L stock,JD.L
+Give me predictions of JD.L stock,JD.L
+Predict this stock name called JD.L,JD.L
+Let me know Future prices of JD.L,JD.L
+Let me know Forecast of jd.l Share,JD.L
+Predict jd.l Stock,JD.L
+Find Future rates of jd,JD.L
+Find Next Day Rates of jd.l,JD.L
+Give me Forcast of jd.l share,JD.L
+Give me Forecast of jd.l stock,JD.L
+Give me predictions of jd.l stock,JD.L
+jd.l,JD.L
+JD.L,JD.L
+what is next highest rate for jd.l company share,JD.L

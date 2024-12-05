@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="chatApp">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FinanceBot Chat</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- AngularJS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+    
+</head>
+<body ng-controller="ChatController">
+
+<!-- Header -->
+<div class="header">
+    <h1>FinanceBot</h1>
+</div>
+
+<!-- Hero Image -->
+<div>
+    <img class="hero-image" src="{{ url_for('static', filename='img/background.jpg') }}" alt="Finance and Business">
+</div>
+
+<!-- Open Chatbot Button -->
+<button class="open-chatbot-btn" ng-click="toggleChat()">💬</button>
+
+<!-- Chatbot Popup -->
+<div class="chatbot-popup" id="chatPopup" ng-class="{'fullscreen': isFullscreen}">
+    <div class="chat-header">
+        <strong>FinanceBot</strong>
+        <button type="button" class="btn btn-sm btn-light" ng-click="maximizeChat()">⛶</button>
+        <button type="button" class="close text-white" ng-click="toggleChat()">&times;</button>
+    </div>
+    <div class="chat-body" id="chatBody" scroll-to-bottom="messages">
+        <div ng-repeat="message in messages track by $index" class="mb-2">
+            <div class="bot-message" ng-if="message.sender === 'bot'">
+                <p ng-if="message.text"><strong><span>[[ message.text ]]</span></strong></p>
+                <p ng-if="message.graphUrl"><img ng-src="/static/[[message.graphUrl]]" class="hero-image"></p>
+            </div>
+            <div class="user-message text-right" ng-if="message.sender === 'user'">
+                <span>[[ message.text ]]</span>
+            </div>
+        </div>
+    </div>
+    <div class="chat-footer">
+        <div class="input-group">
+            <input type="text" class="form-control" placeholder="Type your message..." ng-model="userInput" ng-keypress="handleKeyPress($event)">
+            <div class="input-group-append">
+                <button class="btn btn-primary" ng-click="sendMessage()">Send</button>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.4.4/dist/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

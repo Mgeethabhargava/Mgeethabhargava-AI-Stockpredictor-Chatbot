@@ -1,0 +1,11 @@
+az webapp deploy --resource-group "res" --name "Chatbot-AIPredictor" --src-path "F:\deploy\AI-Stockpredictor-Chatbot\app.zip"
+
+
+az webapp show --name "AIChatbot" --resource-group "res"
+
+
+az webapp log tail --name "AIChatbot" --resource-group "res"
+
+
+az webapp deployment source config --name "AIChatbot" --resource-group "res" --repo-url "https://github.com/Mgeethabhargava/AI-Stockpredictor-Chatbot.git" --branch "main"
+
